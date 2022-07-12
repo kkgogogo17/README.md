@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EricKang
+- 👋 Hi, I’m @ZibinKang
 - 👀 I’m interested in Blockchain, smartcontract, MEV
 - 🌱 I’m currently learning Javascript, Java and solidity.
 - 📫 How to reach me MyEmail: kkgogog.eth@outlook.com
