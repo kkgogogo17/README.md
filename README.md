@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Eric Kang
-- 👀 I’m interested in FrontEnd, Blockchain, smartcontract, MEV
+- 👋 Hi, I’m @ZibinKang
+- 👀 I’m interested in distributed system, Blockchain and SmartContract
 - 🌱 I’m currently learning Javascript, Java and python.
 - 📫 How to reach me : kang.zi@northeastern.edu
 
